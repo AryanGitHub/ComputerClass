@@ -17,6 +17,9 @@ public class stringFunctionsExamples
         System.out.println (str.concat("And this line is added later."));
         System.out.println (str.substring(5,7));
         System.out.println (str.substring(8));
+        System.out.println (str.toLowerCase());
+        System.out.println (str.toUpperCase());
+        
      
     }
 }
