@@ -13,6 +13,12 @@ public class ListOfAllPrograms
      * Automorphic
      * Special
      * Pronic
+     * Buzz
+     * prime
+     * perfect
+     * composit
+     * factorial of the number
+     * 
      * -----------------
      * Reverse
      * 
@@ -55,6 +61,12 @@ public class ListOfAllPrograms
      *The first few pronic numbers are:
      *0, 2, 6, 12, 20, 30, 42, 56, 72, 90, 110, 132, 156, 182, 210, 240, 272, 306, 342, 380, 420, 462 … etc.
      *
+     *Buzz
+     *A number is said to be Buzz Number if it ends with 7 or is divisible by 7
+     *
+     *Perfect
+     *Perfect number is a number which is equal to sum of its divisor. For eg,divisors of 6 are 1,2 and 3. The 
+     * sum of these divisors is 6. So 6 is called as perfect number
      *
  
  
